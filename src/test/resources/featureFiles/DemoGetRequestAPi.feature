@@ -7,3 +7,5 @@ Feature:  Verify Get Call
     Examples:
     |URl|code|
     |/posts|    |
+
+    Scenario Outline: New scenario
